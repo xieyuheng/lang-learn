@@ -25,13 +25,13 @@
   "devDependencies": {
     "@vue/babel-helper-vue-jsx-merge-props": "^1.2.1",
     "@vue/babel-preset-jsx": "^1.2.4",
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-typescript": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-plugin-typescript": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
     "prettier": "^2.3.2",
     "prettier-plugin-tailwind-css": "^1.5.0",
     "typescript": "~4.1.5",
-    "vue-cli-plugin-windicss": "~1.0.4",
+    "vue-cli-plugin-windicss": "~1.1.6",
     "vue-template-compiler": "^2.6.11"
   },
   "prettier": {
