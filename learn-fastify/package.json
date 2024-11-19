@@ -9,6 +9,6 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "fastify": "^3.2.1"
+    "fastify": "^3.29.4"
   }
 }
